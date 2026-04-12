@@ -197,7 +197,7 @@ fun_fact: I write Rust for fun and Python for AI 😄
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HarshBathija-04&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E40C9&ring=6E40C9&fire=FF4500&currStreakLabel=6E40C9" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshBathija-04&theme=tokyonight" width="95%" />
 </div>
 
 <div align="center">
