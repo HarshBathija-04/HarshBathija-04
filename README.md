@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Co-Founder%20%40%20iVeda%20Solutions&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20iVeda%20Solutions&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Animated Typing SVG -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+cross-platform+apps+with+Rust+%26+Svelte+%F0%9F%A6%80;Converting+sign+language+with+AI+%F0%9F%A4%9F;Crafting+full-stack+products+from+scratch+%F0%9F%9A%80;Co-Founder+%40+iVeda+Solutions+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Building+cross-platform+apps+with+Rust+%26+Svelte+%F0%9F%A6%80;Converting+sign+language+with+AI+%F0%9F%A4%9F;Crafting+full-stack+web+products+from+scratch+%F0%9F%9A%80;Full+Stack+Web+Dev+%40+iVeda+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,7 +33,7 @@
 name: Harsh Bathija
 location: Jaipur, Rajasthan, India 🇮🇳
 education: B.Tech (CSE) — JECRC University
-role: Full Stack Developer & Co-Founder @ iVeda Solutions
+role: Full Stack Developer @ iVeda Solutions
 github: github.com/HarshBathija-04
 portfolio: orion-rho-orcin.vercel.app
 focus:
@@ -146,34 +146,67 @@ fun_fact: I write Rust for fun and Python for AI 😄
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔬 Breast Cancer Predictor — ML</h3>
+      <h3 align="center">🏥 AyuAdhar — Ayurvedic Health Platform</h3>
       <div align="center">
-        <a href="https://github.com/HarshBathija-04/Breast-Cancer-Predictor-Backend" target="_blank">
+        <a href="https://github.com/HarshBathija-04/AyuAdhar" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
       <p>
-        ML backend for predicting breast cancer presence from clinical features. Uses supervised classification with a clean data pipeline for medical-grade prediction.
+        Cloud-based Ayurvedic practice management platform with <strong>Dosha-based personalized meal planning</strong>, role-based dashboards for doctors & patients, and real-time meal tracking.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Acmegrade E-Commerce Project ⭐</h3>
+      <h3 align="center">📸 Smart Attendance — Face Recognition</h3>
       <div align="center">
-        <a href="https://github.com/HarshBathija-04/Acmegrade-Project" target="_blank">
+        <a href="https://github.com/HarshBathija-04/Smart-Attendence" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://acmegrade-project.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </div>
       <p>
-        Full-stack e-commerce platform with admin & vendor panels, cart, checkout, and payment flows. First internship project — built entirely in PHP with a production-ready MYSQL backend.
+        Face-recognition-based attendance system using real-time camera detection, automated logging, and an admin dashboard with detailed reports and analytics.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Resume Shortlister</h3>
+      <div align="center">
+        <a href="https://github.com/HarshBathija-04/AI-Resume-Shortlister" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p>
+        AI-powered tool that <strong>automatically screens and ranks resumes</strong> against job descriptions using NLP. Helps recruiters shortlist candidates efficiently using similarity scoring.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 PHP E-Commerce Website ⭐</h3>
+      <div align="center">
+        <a href="https://github.com/HarshBathija-04/PHP-Ecommerce-Website" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p>
+        Full-featured e-commerce web application with product catalog, cart system, user authentication, admin panel, and payment flow — built with PHP & MySQL from scratch.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -202,14 +235,6 @@ fun_fact: I write Rust for fun and Python for AI 😄
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBathija-04&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=6E40C9" width="95%" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshBathija-04&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%" />
 </div>
 
 ---
