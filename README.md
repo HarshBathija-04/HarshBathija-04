@@ -231,11 +231,11 @@ fun_fact: I write Rust for fun and Python for AI 😄
 
 <div align="center">
   <!-- TOTAL_REPOS_START -->
-  <img src="https://img.shields.io/badge/Total%20Repositories-17-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-0-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   <!-- TOTAL_REPOS_END -->
   &nbsp;
   <!-- PUBLIC_REPOS_START -->
-  <img src="https://img.shields.io/badge/Public%20Repositories-20-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-null-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   <!-- PUBLIC_REPOS_END -->
 </div>
 
