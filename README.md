@@ -230,6 +230,12 @@ fun_fact: I write Rust for fun and Python for AI 😄
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-20-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public%20Repositories-20-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshBathija-04&theme=tokyonight" width="95%" />
 </div>
 
