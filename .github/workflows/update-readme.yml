@@ -23,19 +23,20 @@ jobs:
       - name: 📊 Fetch repo counts from GitHub API
         id: counts
         run: |
-          # Fetch public repo count from GitHub user API
-          PUBLIC_REPOS=$(curl -s "https://api.github.com/users/HarshBathija-04" \
+          # Fetch both public + private counts from authenticated /user endpoint
+          USER_DATA=$(curl -s "https://api.github.com/user" \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            | jq '.public_repos')
+            -H "Accept: application/vnd.github+json")
 
-          # Fetch ALL repos using search API (most accurate total count)
-          TOTAL_REPOS=$(curl -s "https://api.github.com/search/repositories?q=user:HarshBathija-04&per_page=1" \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            | jq '.total_count')
+          PUBLIC_REPOS=$(echo "$USER_DATA" | jq '.public_repos')
+          PRIVATE_REPOS=$(echo "$USER_DATA" | jq '.owned_private_repos')
+
+          # Total = public + owned private (matches GitHub UI repo count)
+          TOTAL_REPOS=$(( PUBLIC_REPOS + PRIVATE_REPOS ))
 
           echo "public_repos=$PUBLIC_REPOS" >> $GITHUB_OUTPUT
           echo "total_repos=$TOTAL_REPOS" >> $GITHUB_OUTPUT
-          echo "✅ Public Repos: $PUBLIC_REPOS | Total Repos: $TOTAL_REPOS"
+          echo "✅ Public: $PUBLIC_REPOS | Private: $PRIVATE_REPOS | Total: $TOTAL_REPOS"
 
       - name: ✏️ Update README badges
         run: |
