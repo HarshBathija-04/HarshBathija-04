@@ -239,12 +239,6 @@ fun_fact: I write Rust for fun and Python for AI 😄
   <!-- PUBLIC_REPOS_END -->
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshBathija-04&theme=tokyonight" width="95%" />
-</div>
-
-
-
 ---
 
 ## 🤝 Let's Connect
