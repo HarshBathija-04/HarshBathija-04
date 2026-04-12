@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20iVeda%20Solutions&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Dev%20%7C%20AI%20%26%20ML%20%7C%20iVeda%20Solutions&descAlignY=57&descSize=14" width="100%" />
 
 <!-- Animated Typing SVG -->
 
@@ -9,9 +9,7 @@
 
 <br/>
 
-<!-- Profile Views & Social Links -->
-<img src="https://komarev.com/ghpvc/?username=HarshBathija-04&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" />
-&nbsp;
+<!-- Social Links -->
 <a href="mailto:harsh004bathija@gmail.com">
   <img src="https://img.shields.io/badge/Email-harsh004bathija%40gmail.com-6E40C9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
@@ -224,18 +222,18 @@ fun_fact: I write Rust for fun and Python for AI 😄
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshBathija-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshBathija-04&theme=tokyonight" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshBathija-04&theme=tokyonight" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshBathija-04&theme=tokyonight" width="32%" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshBathija-04&theme=tokyonight" width="95%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBathija-04&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=6E40C9" width="95%" />
-</div>
+
 
 ---
 
