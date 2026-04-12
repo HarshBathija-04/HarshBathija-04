@@ -1,0 +1,55 @@
+name: 🔄 Update Repo Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC
+  push:
+    branches: [main]
+  workflow_dispatch:        # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to push changes to README
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 📊 Fetch repo counts from GitHub API
+        id: counts
+        run: |
+          # Fetch public repo count from GitHub public API
+          PUBLIC_REPOS=$(curl -s "https://api.github.com/users/HarshBathija-04" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            | jq '.public_repos')
+
+          # Fetch ALL repos (including private) using authenticated API
+          TOTAL_REPOS=$(curl -s "https://api.github.com/user/repos?per_page=100&type=all" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            | jq 'length')
+
+          echo "public_repos=$PUBLIC_REPOS" >> $GITHUB_OUTPUT
+          echo "total_repos=$TOTAL_REPOS" >> $GITHUB_OUTPUT
+          echo "✅ Public Repos: $PUBLIC_REPOS | Total Repos: $TOTAL_REPOS"
+
+      - name: ✏️ Update README badges
+        run: |
+          # Replace the number in Total Repositories badge
+          sed -i "s|Total%20Repositories-[0-9]*-|Total%20Repositories-${{ steps.counts.outputs.total_repos }}-|g" README.md
+
+          # Replace the number in Public Repositories badge
+          sed -i "s|Public%20Repositories-[0-9]*-|Public%20Repositories-${{ steps.counts.outputs.public_repos }}-|g" README.md
+
+          echo "✅ README updated with: Total=${{ steps.counts.outputs.total_repos }}, Public=${{ steps.counts.outputs.public_repos }}"
+
+      - name: 🚀 Commit and push if changed
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet && echo "No changes to commit" || (
+            git add README.md &&
+            git commit -m "chore(readme): auto-update repo stats [skip ci]" &&
+            git push
+          )

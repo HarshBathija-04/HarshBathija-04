@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Dev%20%7C%20AI%20%26%20ML%20%7C%20iVeda%20Solutions&descAlignY=57&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Bathija&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Dev%20%7C%20AI%20%7C%20iVeda%20Solutions&descAlignY=57&descSize=15" width="100%" />
 
 <!-- Animated Typing SVG -->
 
@@ -230,9 +230,13 @@ fun_fact: I write Rust for fun and Python for AI 😄
 </div>
 
 <div align="center">
+  <!-- TOTAL_REPOS_START -->
   <img src="https://img.shields.io/badge/Total%20Repositories-20-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <!-- TOTAL_REPOS_END -->
   &nbsp;
+  <!-- PUBLIC_REPOS_START -->
   <img src="https://img.shields.io/badge/Public%20Repositories-20-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <!-- PUBLIC_REPOS_END -->
 </div>
 
 <div align="center">
