@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/harshbathija4/"><img src="https://img.shields.io/badge/LinkedIn-harshbathija4-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harsh004bathija@gmail.com"><img src="https://img.shields.io/badge/Email-harsh004bathija@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=HarshBathija-04&color=34d399&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
@@ -123,8 +121,8 @@ const harsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshBathija-04&show_icons=true&theme=dark&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&theme=dark&bg_color=0d1117&title_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshBathija-04&show_icons=true&theme=dark&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&theme=dark&bg_color=0d1117&title_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBathija-04&theme=dark&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&border=30363d" height="165" alt="GitHub streak"/>
 
