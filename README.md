@@ -124,7 +124,7 @@ const harsh = {
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshBathija-04&show_icons=true&theme=dark&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&theme=dark&bg_color=0d1117&title_color=34d399&text_color=ffffff&border_color=30363d" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=HarshBathija-04&theme=dark&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&border=30363d" height="165" alt="GitHub streak"/>
+<img src="https://harsh-stats.vercel.app/?user=HarshBathija-04&theme=dark&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&border=30363d" height="165" alt="GitHub streak"/>
 
 </div>
 
