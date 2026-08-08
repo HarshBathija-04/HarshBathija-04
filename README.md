@@ -210,14 +210,9 @@ const harsh = {
   <img src="https://streak-stats.demolab.com?user=HarshBathija-04&theme=default&ring=059669&fire=059669&currStreakLabel=059669" height="165" alt="GitHub streak" />
 </picture>
 
-<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarshBathija-04&bg_color=00000000&color=34d399&line=34d399&point=ffffff&area_color=059669&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBathija-04&theme=github-light&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
-</picture>
 
-<br/><br/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBathija-04/HarshBathija-04/output/github-snake-dark.svg" />
