@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:34d399&height=220&section=header&text=Harsh%20Bathija&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:34d399&height=220&section=header&text=Harsh%20Bathija&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Project%20Manager&descSize=18&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Project+Manager+%F0%9F%93%8B;Agentic+AI+Builder+%F0%9F%A4%96;Always+Levelling+Up+%E2%9A%A1" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Project+Manager+%F0%9F%93%8B;Agentic+AI+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Levelling+Up+%E2%9A%A1" alt="Typing intro" />
 
 <br/>
 
@@ -47,6 +47,12 @@ const harsh = {
 <td width="25%"><b>🎯 Role</b></td>
 <td width="15%"><b>📅 Period</b></td>
 <td width="35%"><b>⚡ Highlights</b></td>
+</tr>
+<tr>
+<td><b>Mangalam Electronics Limited</b><br/><sub>Jaipur, India</sub></td>
+<td>AI Trainee <br/><sub><code>Full-time</code></sub></td>
+<td><code>Aug 2026 — Present</code></td>
+<td>Building <b>agentic AI workflows</b> and LLM-powered internal tooling · Prototyping and evaluating models against real business use cases · Shipping automations that cut manual effort across teams</td>
 </tr>
 <tr>
 <td><b>iVeda Solutions</b></td>
@@ -173,12 +179,23 @@ const harsh = {
 **`⸻ DATA ⸻`** *the source of truth*
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="Databases" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Vector%20Databases-34d399?style=for-the-badge&labelColor=0d1117" alt="Vector DBs"/>
 
 <br/><br/>
 
-**`⸻ INTELLIGENCE ⸻`** *models & agents*
+**`⸻ INTELLIGENCE ⸻`** *AI engineering — my core lane*
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="AI / ML" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI / ML" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-34d399?style=for-the-badge&labelColor=0d1117" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Agentic%20AI%20Workflows-059669?style=for-the-badge&labelColor=0d1117" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-34d399?style=for-the-badge&labelColor=0d1117" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-059669?style=for-the-badge&labelColor=0d1117" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Fine--Tuning%20%26%20Evals-34d399?style=for-the-badge&labelColor=0d1117" alt="Fine-Tuning"/>
+<img src="https://img.shields.io/badge/AI%20Automation-059669?style=for-the-badge&labelColor=0d1117" alt="AI Automation"/>
 
 <br/><br/>
 
