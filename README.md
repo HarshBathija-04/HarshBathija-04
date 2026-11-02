@@ -1,270 +1,184 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:34d399&height=220&section=header&text=Harsh%20Bathija&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Project%20Manager&descSize=18&descColor=ffffffcc&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f1923,60:1b2a37,100:ff4655&height=230&section=header&text=Harsh%20Bathija&fontSize=68&fontColor=ece8e1&fontAlign=38&fontAlignY=38&desc=AI%20ENGINEER%20%C2%B7%20RANKED%20PROFILE&descSize=16&descColor=ff4655&descAlign=38&descAlignY=58&animation=fadeIn" width="100%" alt="Harsh Bathija, AI Engineer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Project+Manager+%F0%9F%93%8B;Agentic+AI+Builder+%F0%9F%9B%A0%EF%B8%8F;Always+Levelling+Up+%E2%9A%A1" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=500&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=720&lines=AI+engineer+who+ships+the+whole+stack.;From+the+model+to+the+interface.;Agentic+AI+%C2%B7+Full+Stack+%C2%B7+Project+Management;Now+playing%3A+AI+Trainee+%40+Mangalam+Electronics" alt="AI engineer who ships the whole stack, from the model to the interface." />
 
-<br/>
+**I build scalable web applications, AI-powered products, and digital experiences that solve real-world problems.**
 
-<a href="https://harshbathija.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harshbathija.vercel.app-34d399?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/harshbathija4/"><img src="https://img.shields.io/badge/LinkedIn-harshbathija4-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:harsh004bathija@gmail.com"><img src="https://img.shields.io/badge/Email-harsh004bathija@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://harshbathija.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harshbathija.vercel.app-ff4655?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1923" alt="Portfolio"/></a>
+<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-ff4655?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f1923" alt="Download resume"/></a>
+<a href="https://www.linkedin.com/in/harshbathija4/"><img src="https://img.shields.io/badge/LinkedIn-harshbathija4-ece8e1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1923" alt="LinkedIn"/></a>
+<a href="mailto:harsh004bathija@gmail.com"><img src="https://img.shields.io/badge/Email-harsh004bathija%40gmail.com-ece8e1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f1923" alt="Email"/></a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=$.public_repos&url=https://api.github.com/users/HarshBathija-04&color=34d399&style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Total Repos"/>
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repositories&query=$.public_repos&url=https://api.github.com/users/HarshBathija-04&color=059669&style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Public Repos"/>
-<img src="https://komarev.com/ghpvc/?username=HarshBathija-04&color=34d399&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/HarshBathija-04&color=ff4655&style=flat-square&logo=github&logoColor=white&labelColor=0f1923" alt="Public repos"/>
+<img src="https://komarev.com/ghpvc/?username=HarshBathija-04&color=ff4655&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 🧬 About Me
-
-```typescript
-const harsh = {
-  role:       "Software Engineer & Project Manager",
-  status:     "Open to SWE / PM / Apprentice roles — 2026",
-  education:  "B.Tech CSE - AI & ML (in collaboration with IBM) @ JECRC University",
-  gpa:        "8.21 / 10 (9.5 last semester)",
-  location:   "Jaipur, Rajasthan, India 🇮🇳",
-  leadership: "Full Stack Web Dev & Head of HR — IAESTE LC JECRC",
-  obsession:  "Agentic AI — architecting products powered end-to-end by autonomous agents",
-  dailyRitual:"studying new AI models, every single day",
-  superpower: "shipping production apps on stacks I've never touched before",
-  funFact:    "tore my first PC down component by component... just to rebuild it from scratch",
-};
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 💼 Experience
+## ▸ Career
 
 <table>
 <tr>
-<td width="25%"><b>🏢 Company</b></td>
-<td width="25%"><b>🎯 Role</b></td>
-<td width="15%"><b>📅 Period</b></td>
-<td width="35%"><b>⚡ Highlights</b></td>
-</tr>
-<tr>
-<td><b>Mangalam Electronics Limited</b><br/><sub>Jaipur, India</sub></td>
-<td>AI Trainee <br/><sub><code>Full-time</code></sub></td>
-<td><code>Aug 2026 — Present</code></td>
-<td>Building <b>agentic AI workflows</b> and LLM-powered internal tooling · Prototyping and evaluating models against real business use cases · Shipping automations that cut manual effort across teams</td>
-</tr>
-<tr>
-<td><b>iVeda Solutions</b></td>
-<td>Software Developer Intern</td>
-<td><code>Jan 2026 — Jun 2026</code></td>
-<td>Built client web apps (React, Node.js, MySQL) across full SDLC · Owned project docs & stakeholder reporting end-to-end · <b>Top Performer of the Month</b></td>
-</tr>
-<tr>
-<td><b>InternsVeda</b></td>
-<td>Business Development Executive</td>
-<td><code>Oct 2025 — Jan 2026</code></td>
-<td>Counseled students, converted inquiries to enrollments · Used data to optimize conversion rates · <b>Top Performer of the Month</b></td>
-</tr>
-<tr>
-<td><b>IAESTE LC JECRC</b></td>
-<td>Full Stack Dev & Head, HR & Alumni</td>
-<td><code>Sept 2024 — Sept 2025</code></td>
-<td>Built the org's official website end-to-end · <b>360% membership growth</b> · Coordinated across 7 departmental heads</td>
+<td width="50%" valign="top">
+
+```yaml
+player:     Harsh Bathija
+role:       AI Engineer
+now:        AI Trainee @ Mangalam Electronics
+base:       Jaipur, Rajasthan, India
+education:  B.Tech CSE - AI & ML (with IBM)
+            JECRC University, 2022 - 2026
+gpa:        8.21 / 10 overall
+            (9.5 last semester)
+```
+
+</td>
+<td width="50%" valign="top">
+
+| Stat | Record |
+|:---:|---|
+| **2nd** | of 250 teams · Smart India Hackathon 2024 |
+| **Top 10** | of 150 teams · Smart India Hackathon 2023 |
+| **8.21** | Overall GPA, out of 10 |
+| **MVP** | Multiple awards, competitive esports |
+| **2×** | Top Performer of the Month |
+
+</td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+**Season track** `2024 ──●── 2025 ──●── 2026 ──●──●── NOW`
+<br/><sub>IAESTE LC JECRC → InternsVeda → iVeda Solutions → **Mangalam Electronics**</sub>
 
-## 🚀 Flagship Project
+## ▸ Profile
 
-<div align="center">
+I build **production-quality software** and manage projects end to end, learning whatever stack the problem needs and driving it through every SDLC phase.
 
-### ⚔️ [ARISE OS](https://github.com/HarshBathija-04/ARISE-OS) — <sub>*A Solo Leveling-inspired Life Operating System*</sub>
+I grew up on the move: new schools, new cities, and learning to adapt fast. When the pandemic hit after my 10th boards, I finally got my own PC, and instead of just using it, **I stripped it down component by component** and rebuilt it from scratch. That sealed Computer Science for me. Today I build across the full stack (Next.js and Flutter up front; Express, Django, and Flask behind; Postgres underneath) and **I research new AI models every single day**.
 
-**Turn real-life goals into quests. XP, levels, and streaks reward consistency across web and mobile.**
+**Off the keyboard:** competitive FPS. Multiple MVP awards across esports tournaments, including Valorant. Ranked trained the muscles I use as an engineer: split-second decisions, strategy, and staying calm when everything is on fire. My flagship project exists because I wanted real life to feel as rewarding as ranked.
 
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-arise--os--five.vercel.app-34d399?style=for-the-badge)](https://arise-os-five.vercel.app/)
-[![Source Code](https://img.shields.io/badge/📂_SOURCE-GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/HarshBathija-04/ARISE-OS)
+## ▸ Match History
 
-</div>
+| Period | Role | Team | Result |
+|---|---|---|---|
+| `Aug 2026 - Present` | **AI Trainee** · Full-time | Mangalam Electronics Limited | Building agentic AI workflows and LLM-powered internal tooling; shipping automations that cut manual effort across teams |
+| `Jan 2026 - Jun 2026` | **Software Developer Intern** | iVeda Solutions | 🏆 **Top Performer of the Month** · React, Node.js, MySQL client apps across the full SDLC; 20+ production issues debugged in Agile sprints |
+| `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 **Top Performer of the Month** · Data-backed recommendations to improve enrollment conversion |
+| `Sept 2024 - Sept 2025` | **Full Stack Web Developer & Head, HR & Alumni** | IAESTE LC JECRC | 🏆 **360% membership growth** · Built the official website end to end; coordinated 7 departmental heads |
 
-| Layer | Detail |
-|-------|--------|
-| 🎯 **Backend** | One canonical Express backend owning all game logic (XP, quests, streaks) exposed as a REST API |
-| 🖥️ **Web** | Next.js (App Router) dashboard calling the Express API |
-| 📱 **Mobile** | Flutter app (Windows / Android / iOS) using Riverpod, same API + Supabase JWT |
-| 🔐 **Auth** | Supabase Auth with JWT bearer tokens securing every client |
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,flutter,express,supabase,ts&theme=dark" alt="ARISE OS Stack" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 🔨 More Projects I'm Proud Of
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| 🤟 **[Indian Sign Language Translator](https://github.com/HarshBathija-04/ISL-Converter)** | Real-time ISL gesture recognition → text translation using deep learning · **SIH 2024 — 2nd of 250 teams** | `Python` `Deep Learning` `Computer Vision` |
-| 🌱 **[Breathe ESG](https://github.com/HarshBathija-04/Breathe-ESG)** | Multi-tenant enterprise ESG platform — ingests SAP/utility/travel exports, normalizes emissions data, full audit trail | `Django 5` `DRF` `PostgreSQL` `React 19` `Docker` |
-| 🌿 **[AyuAahar](https://github.com/HarshBathija-04/AyuAdhar)** | Ayurvedic practice management with AI diet plans blending modern nutrition + Prakriti/Dosha analysis | `Flask` `PostgreSQL` `React` `TypeScript` |
-| 🩺 **[Breast Cancer Predictor](https://github.com/HarshBathija-04/Breast-Cancer-Predictor-Backend)** | ML health backend with a 5-model ensemble (LogReg, RF, KNN, SVC, XGBoost) | `Python` `Flask` `scikit-learn` `XGBoost` |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 👑 Leadership & Impact
-
-| # | Area | Metric | What I did |
-|---|------|--------|------------|
-| 01 | **Team Management** | `360% growth` | Led web development for IAESTE LC JECRC — built and launched the official platform |
-| 02 | **Recruitment & Onboarding** | `End-to-end` | Managed drives, interviews, and onboarding — building an engaged member base from scratch |
-| 03 | **Cross-Team Collaboration** | `7 departments` | Coordinated across seven departmental heads for outreach campaigns |
-| 04 | **Hackathon Leadership** | `2 years running` | Captained teams: 2nd among 250 teams (SIH 2024), top 10 among 150 (SIH 2023) |
-| 05 | **Creative Direction** | `GDSC JECRC` | Video Editor Lead — owned visual storytelling for community events and campaigns |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 🏆 Achievement Log
+## ▸ Projects
 
 <div align="center">
 
-| 🎖️ | Achievement |
-|:---:|-------------|
-| 🥈 | **Smart India Hackathon 2024** — 2nd place among **250 teams** (team lead) |
-| 🏅 | **Smart India Hackathon 2023** — Top 10 among **150 teams** (team lead) |
-| 📄 | **Accepted research paper** — DCGAN-based generative models for anime face generation |
-| 🎮 | **Multiple esports MVP awards** — competitive FPS tournaments, including Valorant |
-| 🌟 | **2× Top Performer of the Month** — recognized at both iVeda Solutions & InternsVeda |
+### ⚔️ [Arise OS](https://github.com/HarshBathija-04/ARISE-OS)
+<sub>FLAGSHIP · Solo Leveling-inspired Life OS</sub>
+
+[![Live demo](https://img.shields.io/badge/LIVE_DEMO-arise--os--five.vercel.app-ff4655?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1923)](https://arise-os-five.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-GitHub-ece8e1?style=for-the-badge&logo=github&logoColor=white&labelColor=0f1923)](https://github.com/HarshBathija-04/ARISE-OS)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+| | |
+|---|---|
+| **Problem** | Habit trackers, to-do apps, and planners live in separate silos with no motivation loop to keep you coming back. |
+| **Build** | A real-life RPG progression system: one canonical Express backend owns all game logic (XP, quests, streaks) as a REST API, serving a Next.js web dashboard and a Flutter app (Windows / Android / iOS, Riverpod), secured by Supabase Auth JWTs. |
+| **Ship** | One backend serving both a web and a cross-platform mobile client; live demo on Vercel with a seeded demo account. |
 
-## 📝 Published Research
+<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,flutter,express,supabase,ts&theme=dark" alt="Arise OS stack" /></p>
 
-<div align="center">
+| Project | Problem → Build | Stack |
+|---|---|---|
+| 🤟 **[Indian Sign Language Translator](https://github.com/HarshBathija-04/ISL-Converter)** | ISL users lack on-demand interpreters → real-time computer-vision gesture-to-text translation. **Smart India Hackathon 2024: 2nd of 250 teams** (team lead) | `Python` `Deep Learning` `Computer Vision` |
+| 🌱 **[Breathe ESG](https://github.com/HarshBathija-04/Breathe-ESG)** | Fragmented SAP / utility / travel emissions data → multi-tenant ingestion, normalization, analyst review, and an immutable audit trail | `Django 5` `DRF` `PostgreSQL` `React 19` `Docker` |
+| 🌿 **[AyuAahar](https://github.com/HarshBathija-04/AyuAdhar)** | No unified tool for Ayurvedic diet planning → AI diet plans from Prakriti and Dosha, nutrient analysis, patient tracking, PDF reports | `Flask` `PostgreSQL` `React` `TypeScript` |
+| 🩺 **[Breast Cancer Predictor](https://github.com/HarshBathija-04/Breast-Cancer-Predictor-Backend)** | A single classifier is unreliable on clinical data → Flask prediction API backed by a 5-model ensemble (LogReg, RF, KNN, SVC, XGBoost) | `Python` `Flask` `scikit-learn` `XGBoost` |
 
-### "DCGAN-Based Generative Models for Anime Character Face Generation"
+## ▸ Trophy Case
 
-> Explored the architecture and training methodology of DCGANs applied to generating anime character faces.
-> Implemented generator/discriminator networks, tuned training to avoid mode collapse,
-> and analyzed generative capabilities within the anime aesthetic domain.
+| | Honour |
+|:---:|---|
+| 🥈 | **Smart India Hackathon 2024**: 2nd of 250 teams. Led the team through ideation, planning, and execution |
+| 🏅 | **Smart India Hackathon 2023**: Top 10 of 150 teams. Captained a multidisciplinary team |
+| 🎯 | **Competitive Esports**: multiple MVP awards across FPS tournaments, including Valorant |
+| 🌟 | **2× Top Performer of the Month**: at both iVeda Solutions and InternsVeda |
+| 📄 | **Accepted paper**: *DCGAN-Based Generative Models for Anime Character Face Generation* · [Paper](https://drive.google.com/file/d/1wRPIIttPQpQwGHbQOAXDIny4lrefCvvn/view) · [Acceptance letter](https://drive.google.com/file/d/1gaRcwYSsgk_rQzRG0PvStrqyGQEU0s4h/view) |
 
-<br/>
+## ▸ Leadership
 
-<a href="https://drive.google.com/file/d/1wRPIIttPQpQwGHbQOAXDIny4lrefCvvn/view"><img src="https://img.shields.io/badge/📄_View_Paper-34d399?style=for-the-badge&logoColor=white" alt="Paper"/></a>
-<a href="https://drive.google.com/file/d/1gaRcwYSsgk_rQzRG0PvStrqyGQEU0s4h/view"><img src="https://img.shields.io/badge/📨_Acceptance_Letter-059669?style=for-the-badge&logoColor=white" alt="Acceptance"/></a>
+| Area | Metric | What I did |
+|---|---|---|
+| **Team Management** | `360% growth` | Led web development for IAESTE LC JECRC; architected and launched the official platform |
+| **Recruitment & Onboarding** | `End-to-end` | Ran recruitment drives, interviews, and onboarding, building an engaged member base from scratch |
+| **Cross-Team Collaboration** | `7 departments` | Planned and executed outreach campaigns with seven departmental heads |
+| **Hackathon Leadership** | `2 years running` | Captained Smart India Hackathon teams: 2nd of 250 (2024), top 10 of 150 (2023) |
+| **Creative Direction** | `GDSC JECRC` | Video Editor Lead, owning visual storytelling for community events and campaigns |
 
-</div>
+## ▸ Loadout
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<sub>Every layer of a product, from the interface to the model behind it.</sub>
 
-## 🛠️ Technical Arsenal
+| Slot | Gear |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark" height="36" alt="React, Next.js, TypeScript, Tailwind, HTML5, CSS3"/> `Framer Motion` |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" height="36" alt="Node.js, Express, Django, Flask"/> `REST APIs` `JWT Auth` |
+| **AI Engineering** | `LLMs & Prompt Engineering` `Agentic Workflows` `RAG Pipelines` `LangChain` `Fine-tuning & Evaluation` `AI Tooling & Automation` |
+| **ML / DL** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="36" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV"/> `XGBoost` `DCGAN` `Computer Vision` |
+| **Data** | <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb&theme=dark" height="36" alt="Supabase, PostgreSQL, MongoDB"/> `SQLAlchemy` `SQL` `Vector DBs` |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="36" alt="Flutter, Dart"/> `Riverpod` |
+| **Tools** | <img src="https://skillicons.dev/icons?i=js,git,github,docker,vercel,figma,vscode&theme=dark" height="36" alt="JavaScript, Git, GitHub, Docker, Vercel, Figma, VS Code"/> |
 
-<div align="center">
+## ▸ How I Think
 
-**`⸻ CLIENT ⸻`** *what users touch*
+| Habit | In practice |
+|---|---|
+| **Understand Before You Build** | Before I trust a new AI model, framework, or API, I dig into how it works underneath. Fundamentals first; the reliability follows. |
+| **Architecture Is a Day-One Decision** | I map design, implementation, testing, integration, and deployment before writing a line. That is what let one Arise OS API serve both web and Flutter. |
+| **Learn the Language the Problem Needs** | Each project deliberately runs on a stack I haven't shipped before: Django one month, Flutter the next. |
+| **Performance Is a Feature** | Competitive FPS taught me milliseconds decide outcomes. Software that feels fast is software people trust. |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,flutter&theme=dark" alt="Frontend & Mobile" />
+## ▸ The Queue
 
-<br/><br/>
+<sub>Technologies and domains I'm grinding right now.</sub>
 
-**`⸻ SERVER ⸻`** *one canonical API*
+`Agentic AI` `Generative AI (LLMs)` `Multi-Agent Systems` `System Design` `Data Structures & Algorithms` `Next.js App Router` `Flutter & Riverpod` `Django & DRF` `Multi-Tenant Architecture` `Deep Learning & GANs` `REST API Ecosystems` `Cloud Deployment`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="Backend" />
-
-<br/><br/>
-
-**`⸻ DATA ⸻`** *the source of truth*
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="Databases" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Vector%20Databases-34d399?style=for-the-badge&labelColor=0d1117" alt="Vector DBs"/>
-
-<br/><br/>
-
-**`⸻ INTELLIGENCE ⸻`** *AI engineering — my core lane*
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI / ML" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-34d399?style=for-the-badge&labelColor=0d1117" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Agentic%20AI%20Workflows-059669?style=for-the-badge&labelColor=0d1117" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-34d399?style=for-the-badge&labelColor=0d1117" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangChain-059669?style=for-the-badge&labelColor=0d1117" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Fine--Tuning%20%26%20Evals-34d399?style=for-the-badge&labelColor=0d1117" alt="Fine-Tuning"/>
-<img src="https://img.shields.io/badge/AI%20Automation-059669?style=for-the-badge&labelColor=0d1117" alt="AI Automation"/>
-
-<br/><br/>
-
-**`⸻ FOUNDATION ⸻`** *languages & workflow*
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,git,github,docker,vercel,figma,vscode&theme=dark" alt="Tools" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 📊 GitHub Stats
+## ▸ Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshBathija-04&show_icons=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=ffffff&border_color=30363d&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshBathija-04&show_icons=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=24292e&border_color=d0d7de" height="165" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshBathija-04&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshBathija-04&theme=default" height="165" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&bg_color=00000000&title_color=34d399&text_color=ffffff&border_color=30363d&hide_border=false" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshBathija-04&layout=compact&bg_color=00000000&title_color=34d399&text_color=24292e&border_color=d0d7de" height="165" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshBathija-04&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshBathija-04&theme=default" height="165" alt="Top languages by commit" />
 </picture>
-
-<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshBathija-04&theme=dark&background=00000000&ring=34d399&fire=34d399&currStreakLabel=34d399&border=30363d&currStreakNum=ffffff&sideNums=34d399&sideLabels=ffffff&dates=888888" />
-  <img src="https://streak-stats.demolab.com?user=HarshBathija-04&theme=default&ring=059669&fire=059669&currStreakLabel=059669" height="165" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshBathija-04&background=0f1923&border=263645&stroke=263645&ring=ff4655&fire=ff4655&currStreakNum=ece8e1&currStreakLabel=ff4655&sideNums=ece8e1&sideLabels=aeb8c1&dates=8d99a5&border_radius=2" />
+  <img src="https://streak-stats.demolab.com?user=HarshBathija-04&background=f6f3ee&border=d3cdc2&stroke=d3cdc2&ring=c8202f&fire=c8202f&currStreakNum=0f1923&currStreakLabel=c8202f&sideNums=0f1923&sideLabels=3c4a57&dates=55626e&border_radius=2" height="165" alt="GitHub streak" />
 </picture>
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBathija-04/HarshBathija-04/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/HarshBathija-04/HarshBathija-04/output/github-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/HarshBathija-04/HarshBathija-04/output/github-snake.svg" alt="Contribution snake" width="100%" />
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 📈 Current Quests
+## ▸ Contact
 
 <div align="center">
 
-`Agentic AI` · `Generative AI (LLMs)` · `Multi-Agent Systems` · `System Design` · `Data Structures & Algorithms` · `Next.js App Router`
+**Hiring for AI, software, or full-stack work, or need a product built end to end?**
+<br/>The resume is one click away, and so am I.
 
-`Flutter & Riverpod` · `Django & DRF` · `Multi-Tenant Architecture` · `Deep Learning & GANs` · `REST API Ecosystems` · `Cloud Deployment`
+<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-ff4655?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download resume"/></a>
+<a href="https://harshbathija.vercel.app/#contact"><img src="https://img.shields.io/badge/Write_to_me-0f1923?style=for-the-badge&logo=maildotru&logoColor=white" alt="Write to me"/></a>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-<div align="center">
-
-### 🎯 The short version of my story
-
-*Grew up moving cities and switching schools — adaptability became my default.*
-*Got my first PC during the pandemic and tore it down component by component, just to rebuild it from scratch.*
-*That curiosity became a CS degree, hackathon podiums, freelance client work,*
-*and a habit of shipping projects on stacks I've never used before.*
-
-**⚡ New quest unlocked every week. XP bar never full. ⚡**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:34d399&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff4655,40:1b2a37,100:0f1923&height=110&section=footer&reversal=true" width="100%" alt="" />
 
 </div>
