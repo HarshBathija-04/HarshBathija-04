@@ -1,165 +1,129 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f1923,60:1b2a37,100:ff4655&height=230&section=header&text=Harsh%20Bathija&fontSize=68&fontColor=ece8e1&fontAlign=38&fontAlignY=38&desc=AI%20ENGINEER%20%C2%B7%20RANKED%20PROFILE&descSize=16&descColor=ff4655&descAlign=38&descAlignY=58&animation=fadeIn" width="100%" alt="Harsh Bathija, AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,55:5e0a15,100:ff3b4a&height=200&section=header&text=HARSH%20BATHIJA.&fontSize=64&fontColor=f2f2f2&fontAlign=50&fontAlignY=44&desc=AI%20ENGINEER%20%C2%B7%20FULL%20STACK%20%C2%B7%20PROJECT%20LEAD&descSize=15&descColor=f2f2f2&descAlign=50&descAlignY=72&animation=fadeIn" width="100%" alt="Harsh Bathija, AI Engineer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=500&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=720&lines=AI+engineer+who+ships+the+whole+stack.;From+the+model+to+the+interface.;Agentic+AI+%C2%B7+Full+Stack+%C2%B7+Project+Management;Now+playing%3A+AI+Trainee+%40+Mangalam+Electronics" alt="AI engineer who ships the whole stack, from the model to the interface." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FF3B4A&center=true&vCenter=true&width=720&lines=%3E+10+agents+assembling+profile...;%3E+AI+engineer+who+ships+the+whole+stack.;%3E+Building+agentic+AI+%40+Mangalam+Electronics.;%3E+Profile+built+%E2%9C%93" alt="10 agents assembling profile. AI engineer who ships the whole stack." />
 
-**I build scalable web applications, AI-powered products, and digital experiences that solve real-world problems.**
+**I build AI-powered products and the full-stack software around them, from the model to the interface.**
 
-<a href="https://harshbathija.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harshbathija.vercel.app-ff4655?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1923" alt="Portfolio"/></a>
-<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-ff4655?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0f1923" alt="Download resume"/></a>
-<a href="https://www.linkedin.com/in/harshbathija4/"><img src="https://img.shields.io/badge/LinkedIn-harshbathija4-ece8e1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1923" alt="LinkedIn"/></a>
-<a href="mailto:harsh004bathija@gmail.com"><img src="https://img.shields.io/badge/Email-harsh004bathija%40gmail.com-ece8e1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f1923" alt="Email"/></a>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=$.public_repos&url=https://api.github.com/users/HarshBathija-04&color=ff4655&style=flat-square&logo=github&logoColor=white&labelColor=0f1923" alt="Public repos"/>
-<img src="https://komarev.com/ghpvc/?username=HarshBathija-04&color=ff4655&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://harshbathija.vercel.app"><img src="https://img.shields.io/badge/Portfolio-watch_the_agents_build_it-ff3b4a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0c" alt="Portfolio"/></a>
+<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ff3b4a?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0a0a0c" alt="Download resume"/></a>
+<a href="https://www.linkedin.com/in/harshbathija4/"><img src="https://img.shields.io/badge/LinkedIn-harshbathija4-f2f2f2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0c" alt="LinkedIn"/></a>
+<a href="mailto:harsh004bathija@gmail.com"><img src="https://img.shields.io/badge/Email-harsh004bathija%40gmail.com-f2f2f2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c" alt="Email"/></a>
 
 </div>
 
-## ▸ Career
+## ▍ The 30-second scan
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="46%" valign="top">
 
 ```yaml
-player:     Harsh Bathija
-role:       AI Engineer
-now:        AI Trainee @ Mangalam Electronics
-base:       Jaipur, Rajasthan, India
-education:  B.Tech CSE - AI & ML (with IBM)
-            JECRC University, 2022 - 2026
-gpa:        8.21 / 10 overall
-            (9.5 last semester)
+role:      AI Engineer
+now:       AI Trainee @ Mangalam Electronics
+           (agentic AI workflows, LLM tooling)
+base:      Jaipur, Rajasthan, India
+degree:    B.Tech CSE - AI & ML (with IBM)
+           JECRC University, 2022 - 2026
+gpa:       8.21 / 10
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="54%" valign="top">
 
-| Stat | Record |
+| | Proof |
 |:---:|---|
-| **2nd** | of 250 teams · Smart India Hackathon 2024 |
-| **Top 10** | of 150 teams · Smart India Hackathon 2023 |
-| **8.21** | Overall GPA, out of 10 |
-| **MVP** | Multiple awards, competitive esports |
-| **2×** | Top Performer of the Month |
+| **2nd** | of 250 teams · Smart India Hackathon 2024 (team lead) |
+| **Top 10** | of 150 teams · Smart India Hackathon 2023 (captain) |
+| **2×** | Top Performer of the Month, in two internships |
+| **360%** | membership growth, IAESTE LC JECRC |
+| **1** | accepted paper on DCGAN generative models |
 
 </td>
 </tr>
 </table>
 
-**Season track** `2024 ──●── 2025 ──●── 2026 ──●──●── NOW`
-<br/><sub>IAESTE LC JECRC → InternsVeda → iVeda Solutions → **Mangalam Electronics**</sub>
+## ▍ What are you hiring for?
 
-## ▸ Profile
+<sub>Pick the row that matches your role. Evidence, not adjectives.</sub>
 
-I build **production-quality software** and manage projects end to end, learning whatever stack the problem needs and driving it through every SDLC phase.
+| Role | Why I fit | Matching stack |
+|---|---|---|
+| **🤖 AI Engineer** | Already doing the job: agentic AI workflows and LLM tooling in production at Mangalam Electronics. Real-time sign language recognition (2nd of 250 at SIH 2024), DCGAN research, a 5-model ML ensemble behind a Flask API. | `LLMs` `Agentic Workflows` `RAG` `LangChain` `Python` `Deep Learning` `scikit-learn` |
+| **🧱 Full Stack Engineer** | Ships complete products solo. Arise OS: one Express API serving a Next.js web app and a Flutter mobile app, live on Vercel. Breathe ESG: multi-tenant Django platform, 9 apps, Docker. React / Node / MySQL client work at iVeda. | `Next.js` `React` `TypeScript` `Node.js` `Django` `PostgreSQL` `Supabase` `Flutter` |
+| **🧭 Project Lead** | Captained hackathon teams two years running. Grew IAESTE LC JECRC membership 360% while coordinating 7 departmental heads. Owned requirements and stakeholder reporting at iVeda. | `Agile` `SDLC` `Stakeholder Management` `Documentation` `Team Leadership` |
 
-I grew up on the move: new schools, new cities, and learning to adapt fast. When the pandemic hit after my 10th boards, I finally got my own PC, and instead of just using it, **I stripped it down component by component** and rebuilt it from scratch. That sealed Computer Science for me. Today I build across the full stack (Next.js and Flutter up front; Express, Django, and Flask behind; Postgres underneath) and **I research new AI models every single day**.
+## ▍ Selected work
 
-**Off the keyboard:** competitive FPS. Multiple MVP awards across esports tournaments, including Valorant. Ranked trained the muscles I use as an engineer: split-second decisions, strategy, and staying calm when everything is on fire. My flagship project exists because I wanted real life to feel as rewarding as ranked.
+| | Project | Problem → Build | Stack |
+|:---:|---|---|---|
+| ⚔️ | **[Arise OS](https://github.com/HarshBathija-04/ARISE-OS)** <br/><sub>FLAGSHIP · [Live demo](https://arise-os-five.vercel.app/)</sub> | Habits, to-dos, and planners live in silos with no motivation loop → a real-life RPG system. One canonical Express backend owns XP, quests, and streaks for both web and mobile clients, secured by Supabase JWTs. | `Next.js` `Flutter` `Express` `Supabase` `TypeScript` |
+| 🤟 | **[Indian Sign Language Translator](https://github.com/HarshBathija-04/ISL-Converter)** <br/><sub>SIH 2024 · 2nd of 250</sub> | ISL users lack on-demand interpreters → real-time computer-vision pipeline translating gestures to text. Led the team and built the recognition model. | `Python` `Deep Learning` `Computer Vision` |
+| 🌱 | **[Breathe ESG](https://github.com/HarshBathija-04/Breathe-ESG)** | Fragmented SAP, utility, and travel emissions data → multi-tenant ingestion, normalization, analyst review, and an immutable audit trail. | `Django 5` `DRF` `PostgreSQL` `React 19` `Docker` |
+| 🌿 | **[AyuAahar](https://github.com/HarshBathija-04/AyuAdhar)** | No unified tool for Ayurvedic diet planning → AI diet plans from Prakriti and Dosha, nutrient analysis, patient tracking, PDF reports. | `Flask` `PostgreSQL` `React` `TypeScript` |
+| 🩺 | **[Breast Cancer Predictor](https://github.com/HarshBathija-04/Breast-Cancer-Predictor-Backend)** | A single classifier is unreliable on clinical data → Flask prediction API backed by a 5-model ensemble (LR, RF, KNN, SVC, XGBoost). | `Python` `Flask` `scikit-learn` `XGBoost` |
 
-## ▸ Match History
+<sub>Full case studies (problem, build, architecture, impact) are on the [portfolio](https://harshbathija.vercel.app/#projects).</sub>
 
-| Period | Role | Team | Result |
+## ▍ Journey
+
+| When | Role | Where | Result |
 |---|---|---|---|
-| `Aug 2026 - Present` | **AI Trainee** · Full-time | Mangalam Electronics Limited | Building agentic AI workflows and LLM-powered internal tooling; shipping automations that cut manual effort across teams |
-| `Jan 2026 - Jun 2026` | **Software Developer Intern** | iVeda Solutions | 🏆 **Top Performer of the Month** · React, Node.js, MySQL client apps across the full SDLC; 20+ production issues debugged in Agile sprints |
-| `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 **Top Performer of the Month** · Data-backed recommendations to improve enrollment conversion |
-| `Sept 2024 - Sept 2025` | **Full Stack Web Developer & Head, HR & Alumni** | IAESTE LC JECRC | 🏆 **360% membership growth** · Built the official website end to end; coordinated 7 departmental heads |
+| `Aug 2026 - now` | **AI Trainee** · full-time | Mangalam Electronics Limited | Agentic AI workflows and LLM-powered internal tooling; automations that cut manual effort across teams |
+| `Jan - Jun 2026` | **Software Developer Intern** | iVeda Solutions | 🏆 Top Performer · React, Node.js, MySQL client apps; 20+ production issues fixed in Agile sprints |
+| `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 Top Performer · data-backed recommendations to lift enrollment conversion |
+| `Sep 2024 - Sep 2025` | **Full Stack Developer & Head, HR & Alumni** | IAESTE LC JECRC | 🏆 360% membership growth · built the official website end to end |
 
-## ▸ Projects
+## ▍ Ask the agent
+
+<sub>The questions recruiters usually ask on the screening call, answered up front.</sub>
+
+<details>
+<summary><b>Give me the 10-second pitch</b></summary>
+<br/>
+AI Engineer who ships full stack. Building agentic AI workflows at Mangalam Electronics today; before that, shipped React/Node client apps at iVeda Solutions as Top Performer. Led a team to 2nd of 250 at Smart India Hackathon 2024.
+</details>
+
+<details>
+<summary><b>What AI work has Harsh done?</b></summary>
+<br/>
+Agentic AI workflows and LLM tooling at Mangalam Electronics, a real-time sign language translator (deep learning + computer vision), DCGAN research on generative models, and a 5-model ML ensemble behind a Flask API.
+</details>
+
+<details>
+<summary><b>How does Harsh work in a team?</b></summary>
+<br/>
+Captained hackathon teams two years running, grew IAESTE LC JECRC's membership 360% while coordinating 7 departments, and owned stakeholder reporting at iVeda. Comfortable as the person who writes the code and the person who runs the meeting.
+</details>
+
+<details>
+<summary><b>Why hire Harsh?</b></summary>
+<br/>
+Harsh learns whatever stack the problem needs (Django one month, Flutter the next) and drives it through every SDLC phase to production. Two Top Performer awards in two internships show the pace.
+</details>
+
+## ▍ Stack
 
 <div align="center">
 
-### ⚔️ [Arise OS](https://github.com/HarshBathija-04/ARISE-OS)
-<sub>FLAGSHIP · Solo Leveling-inspired Life OS</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="40" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,django,flask&theme=dark" height="40" alt="TypeScript, React, Next.js, Tailwind, Node.js, Express, Django, Flask"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,flutter,docker,git,vercel,figma&theme=dark" height="40" alt="PostgreSQL, Supabase, MongoDB, Flutter, Docker, Git, Vercel, Figma"/>
 
-[![Live demo](https://img.shields.io/badge/LIVE_DEMO-arise--os--five.vercel.app-ff4655?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f1923)](https://arise-os-five.vercel.app/)
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-ece8e1?style=for-the-badge&logo=github&logoColor=white&labelColor=0f1923)](https://github.com/HarshBathija-04/ARISE-OS)
+`LLMs & Prompt Engineering` `Agentic Workflows` `RAG Pipelines` `LangChain` `Fine-tuning & Evaluation` `Vector DBs`
 
 </div>
 
-| | |
-|---|---|
-| **Problem** | Habit trackers, to-do apps, and planners live in separate silos with no motivation loop to keep you coming back. |
-| **Build** | A real-life RPG progression system: one canonical Express backend owns all game logic (XP, quests, streaks) as a REST API, serving a Next.js web dashboard and a Flutter app (Windows / Android / iOS, Riverpod), secured by Supabase Auth JWTs. |
-| **Ship** | One backend serving both a web and a cross-platform mobile client; live demo on Vercel with a seeded demo account. |
-
-<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,flutter,express,supabase,ts&theme=dark" alt="Arise OS stack" /></p>
-
-| Project | Problem → Build | Stack |
-|---|---|---|
-| 🤟 **[Indian Sign Language Translator](https://github.com/HarshBathija-04/ISL-Converter)** | ISL users lack on-demand interpreters → real-time computer-vision gesture-to-text translation. **Smart India Hackathon 2024: 2nd of 250 teams** (team lead) | `Python` `Deep Learning` `Computer Vision` |
-| 🌱 **[Breathe ESG](https://github.com/HarshBathija-04/Breathe-ESG)** | Fragmented SAP / utility / travel emissions data → multi-tenant ingestion, normalization, analyst review, and an immutable audit trail | `Django 5` `DRF` `PostgreSQL` `React 19` `Docker` |
-| 🌿 **[AyuAahar](https://github.com/HarshBathija-04/AyuAdhar)** | No unified tool for Ayurvedic diet planning → AI diet plans from Prakriti and Dosha, nutrient analysis, patient tracking, PDF reports | `Flask` `PostgreSQL` `React` `TypeScript` |
-| 🩺 **[Breast Cancer Predictor](https://github.com/HarshBathija-04/Breast-Cancer-Predictor-Backend)** | A single classifier is unreliable on clinical data → Flask prediction API backed by a 5-model ensemble (LogReg, RF, KNN, SVC, XGBoost) | `Python` `Flask` `scikit-learn` `XGBoost` |
-
-## ▸ Trophy Case
-
-| | Honour |
-|:---:|---|
-| 🥈 | **Smart India Hackathon 2024**: 2nd of 250 teams. Led the team through ideation, planning, and execution |
-| 🏅 | **Smart India Hackathon 2023**: Top 10 of 150 teams. Captained a multidisciplinary team |
-| 🎯 | **Competitive Esports**: multiple MVP awards across FPS tournaments, including Valorant |
-| 🌟 | **2× Top Performer of the Month**: at both iVeda Solutions and InternsVeda |
-| 📄 | **Accepted paper**: *DCGAN-Based Generative Models for Anime Character Face Generation* · [Paper](https://drive.google.com/file/d/1wRPIIttPQpQwGHbQOAXDIny4lrefCvvn/view) · [Acceptance letter](https://drive.google.com/file/d/1gaRcwYSsgk_rQzRG0PvStrqyGQEU0s4h/view) |
-
-## ▸ Leadership
-
-| Area | Metric | What I did |
-|---|---|---|
-| **Team Management** | `360% growth` | Led web development for IAESTE LC JECRC; architected and launched the official platform |
-| **Recruitment & Onboarding** | `End-to-end` | Ran recruitment drives, interviews, and onboarding, building an engaged member base from scratch |
-| **Cross-Team Collaboration** | `7 departments` | Planned and executed outreach campaigns with seven departmental heads |
-| **Hackathon Leadership** | `2 years running` | Captained Smart India Hackathon teams: 2nd of 250 (2024), top 10 of 150 (2023) |
-| **Creative Direction** | `GDSC JECRC` | Video Editor Lead, owning visual storytelling for community events and campaigns |
-
-## ▸ Loadout
-
-<sub>Every layer of a product, from the interface to the model behind it.</sub>
-
-| Slot | Gear |
-|---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark" height="36" alt="React, Next.js, TypeScript, Tailwind, HTML5, CSS3"/> `Framer Motion` |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" height="36" alt="Node.js, Express, Django, Flask"/> `REST APIs` `JWT Auth` |
-| **AI Engineering** | `LLMs & Prompt Engineering` `Agentic Workflows` `RAG Pipelines` `LangChain` `Fine-tuning & Evaluation` `AI Tooling & Automation` |
-| **ML / DL** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="36" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV"/> `XGBoost` `DCGAN` `Computer Vision` |
-| **Data** | <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb&theme=dark" height="36" alt="Supabase, PostgreSQL, MongoDB"/> `SQLAlchemy` `SQL` `Vector DBs` |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="36" alt="Flutter, Dart"/> `Riverpod` |
-| **Tools** | <img src="https://skillicons.dev/icons?i=js,git,github,docker,vercel,figma,vscode&theme=dark" height="36" alt="JavaScript, Git, GitHub, Docker, Vercel, Figma, VS Code"/> |
-
-## ▸ How I Think
-
-| Habit | In practice |
-|---|---|
-| **Understand Before You Build** | Before I trust a new AI model, framework, or API, I dig into how it works underneath. Fundamentals first; the reliability follows. |
-| **Architecture Is a Day-One Decision** | I map design, implementation, testing, integration, and deployment before writing a line. That is what let one Arise OS API serve both web and Flutter. |
-| **Learn the Language the Problem Needs** | Each project deliberately runs on a stack I haven't shipped before: Django one month, Flutter the next. |
-| **Performance Is a Feature** | Competitive FPS taught me milliseconds decide outcomes. Software that feels fast is software people trust. |
-
-## ▸ The Queue
-
-<sub>Technologies and domains I'm grinding right now.</sub>
-
-`Agentic AI` `Generative AI (LLMs)` `Multi-Agent Systems` `System Design` `Data Structures & Algorithms` `Next.js App Router` `Flutter & Riverpod` `Django & DRF` `Multi-Tenant Architecture` `Deep Learning & GANs` `REST API Ecosystems` `Cloud Deployment`
-
-## ▸ Stats
+## ▍ Live from GitHub
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshBathija-04&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshBathija-04&theme=default" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshBathija-04&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshBathija-04&theme=default" height="165" alt="Top languages by commit" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshBathija-04&background=0f1923&border=263645&stroke=263645&ring=ff4655&fire=ff4655&currStreakNum=ece8e1&currStreakLabel=ff4655&sideNums=ece8e1&sideLabels=aeb8c1&dates=8d99a5&border_radius=2" />
-  <img src="https://streak-stats.demolab.com?user=HarshBathija-04&background=f6f3ee&border=d3cdc2&stroke=d3cdc2&ring=c8202f&fire=c8202f&currStreakNum=0f1923&currStreakLabel=c8202f&sideNums=0f1923&sideLabels=3c4a57&dates=55626e&border_radius=2" height="165" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshBathija-04&background=0a0a0c&border=232328&stroke=232328&ring=ff3b4a&fire=ff3b4a&currStreakNum=f2f2f2&currStreakLabel=ff3b4a&sideNums=f2f2f2&sideLabels=c4c4cc&dates=8f8f99&border_radius=4" />
+  <img src="https://streak-stats.demolab.com?user=HarshBathija-04&background=ffffff&border=e5e5e5&stroke=e5e5e5&ring=c8162b&fire=c8162b&currStreakNum=0a0a0c&currStreakLabel=c8162b&sideNums=0a0a0c&sideLabels=444444&dates=666666&border_radius=4" height="165" alt="GitHub streak" />
 </picture>
 
 <picture>
@@ -169,16 +133,17 @@ I grew up on the move: new schools, new cities, and learning to adapt fast. When
 
 </div>
 
-## ▸ Contact
+## ▍ Let's talk
 
 <div align="center">
 
-**Hiring for AI, software, or full-stack work, or need a product built end to end?**
-<br/>The resume is one click away, and so am I.
+**Hiring for AI, software, or full-stack work?** The resume is one click away, and so am I.
 
-<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-ff4655?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download resume"/></a>
-<a href="https://harshbathija.vercel.app/#contact"><img src="https://img.shields.io/badge/Write_to_me-0f1923?style=for-the-badge&logo=maildotru&logoColor=white" alt="Write to me"/></a>
+<a href="https://harshbathija.vercel.app/Harsh_Bathija_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-ff3b4a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download resume"/></a>
+<a href="https://harshbathija.vercel.app/#contact"><img src="https://img.shields.io/badge/Write_to_me-0a0a0c?style=for-the-badge&logo=maildotru&logoColor=white" alt="Write to me"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff4655,40:1b2a37,100:0f1923&height=110&section=footer&reversal=true" width="100%" alt="" />
+<sub>This profile follows the same design as my portfolio, where 10 AI agents assemble the page layer by layer. [Watch it build →](https://harshbathija.vercel.app)</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3b4a,45:5e0a15,100:0a0a0c&height=6&section=footer" width="100%" alt="" />
 
 </div>
