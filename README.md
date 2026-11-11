@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FF3B4A&center=true&vCenter=true&width=720&lines=%3E+10+agents+assembling+profile...;%3E+AI+engineer+who+ships+the+whole+stack.;%3E+Building+agentic+AI+%40+Mangalam+Electronics.;%3E+Profile+built+%E2%9C%93" alt="10 agents assembling profile. AI engineer who ships the whole stack." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FF3B4A&center=true&vCenter=true&width=720&lines=%3E+10+agents+assembling+profile...;%3E+AI+engineer+who+ships+the+whole+stack.;%3E+Shipping+LLM+features+%40+Mangal+Electricals.;%3E+Profile+built+%E2%9C%93" alt="10 agents assembling profile. AI engineer who ships the whole stack." />
 
 **I build AI-powered products and the full-stack software around them, from the model to the interface.**
 
@@ -21,8 +21,8 @@
 
 ```yaml
 role:      AI Engineer
-now:       AI Trainee @ Mangalam Electronics
-           (agentic AI workflows, LLM tooling)
+now:       AI & Data Analyst Trainee
+           @ Mangal Electricals Limited
 base:      Jaipur, Rajasthan, India
 degree:    B.Tech CSE - AI & ML (with IBM)
            JECRC University, 2022 - 2026
@@ -38,7 +38,7 @@ gpa:       8.21 / 10
 | **Top 10** | of 150 teams · Smart India Hackathon 2023 (captain) |
 | **2×** | Top Performer of the Month, in two internships |
 | **360%** | membership growth, IAESTE LC JECRC |
-| **1** | accepted paper on DCGAN generative models |
+| **1** | conference presentation · DCGAN research at I-LIPS 2025 |
 
 </td>
 </tr>
@@ -50,9 +50,9 @@ gpa:       8.21 / 10
 
 | Role | Why I fit | Matching stack |
 |---|---|---|
-| **🤖 AI Engineer** | Already doing the job: agentic AI workflows and LLM tooling in production at Mangalam Electronics. Real-time sign language recognition (2nd of 250 at SIH 2024), DCGAN research, a 5-model ML ensemble behind a Flask API. | `LLMs` `Agentic Workflows` `RAG` `LangChain` `Python` `Deep Learning` `scikit-learn` |
+| **🤖 AI Engineer** | Already doing the work: prototyping AI-driven solutions and shipping LLM-based features into internal tools at Mangal Electricals. Real-time sign language recognition (2nd of 250 at SIH 2024), DCGAN research presented at I-LIPS 2025, a 5-model ML ensemble behind a Flask API. | `LLMs` `Python` `Deep Learning` `OpenCV` `Data Preprocessing` `Model Evaluation` `scikit-learn` |
 | **🧱 Full Stack Engineer** | Ships complete products solo. Arise OS: one Express API serving a Next.js web app and a Flutter mobile app, live on Vercel. Breathe ESG: multi-tenant Django platform, 9 apps, Docker. React / Node / MySQL client work at iVeda. | `Next.js` `React` `TypeScript` `Node.js` `Django` `PostgreSQL` `Supabase` `Flutter` |
-| **🧭 Project Lead** | Captained hackathon teams two years running. Grew IAESTE LC JECRC membership 360% while coordinating 7 departmental heads. Owned requirements and stakeholder reporting at iVeda. | `Agile` `SDLC` `Stakeholder Management` `Documentation` `Team Leadership` |
+| **🧭 Project Lead** | Captained hackathon teams two years running. Grew IAESTE LC JECRC membership 360% while coordinating 7 departmental heads. Designed API payload schemas with cross-functional teams and owned technical documentation at iVeda. | `Agile` `SDLC` `Stakeholder Management` `Documentation` `Team Leadership` |
 
 ## ▍ Selected work
 
@@ -70,9 +70,9 @@ gpa:       8.21 / 10
 
 | When | Role | Where | Result |
 |---|---|---|---|
-| `Aug 2026 - now` | **AI Trainee** · full-time | Mangalam Electronics Limited | Agentic AI workflows and LLM-powered internal tooling; automations that cut manual effort across teams |
+| `Aug 2026 - now` | **AI & Data Analyst Trainee** · full-time | Mangal Electricals Limited | Prototyping AI-driven solutions in Python and integrating LLM-based features into internal tools; preprocessing data and benchmarking models against production requirements |
 | `Jan - Jun 2026` | **Software Developer Intern** | iVeda Solutions | 🏆 Top Performer · React, Node.js, MySQL client apps; 20+ production issues fixed in Agile sprints |
-| `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 Top Performer · data-backed recommendations to lift enrollment conversion |
+| `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 Top Performer · automated CRM data tracking workflows and coordinated across departments |
 | `Sep 2024 - Sep 2025` | **Head of IT & DA and Head of HRA** | IAESTE LC JECRC | 🏆 360% membership growth · built the official website end to end |
 
 ## ▍ Ask the agent
@@ -82,13 +82,13 @@ gpa:       8.21 / 10
 <details>
 <summary><b>Give me the 10-second pitch</b></summary>
 <br/>
-AI Engineer who ships full stack. Building agentic AI workflows at Mangalam Electronics today; before that, shipped React/Node client apps at iVeda Solutions as Top Performer. Led a team to 2nd of 250 at Smart India Hackathon 2024.
+AI Engineer who ships full stack. Prototyping AI solutions and LLM-based features at Mangal Electricals today; before that, shipped React/Node client apps at iVeda Solutions as Top Performer. Led a team to 2nd of 250 at Smart India Hackathon 2024.
 </details>
 
 <details>
 <summary><b>What AI work has Harsh done?</b></summary>
 <br/>
-Agentic AI workflows and LLM tooling at Mangalam Electronics, a real-time sign language translator (deep learning + computer vision), DCGAN research on generative models, and a 5-model ML ensemble behind a Flask API.
+LLM-based features and model benchmarking at Mangal Electricals, a real-time sign language translator (deep learning + OpenCV), DCGAN research presented at I-LIPS 2025, and a 5-model ML ensemble behind a Flask API.
 </details>
 
 <details>
