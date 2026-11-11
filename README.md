@@ -73,7 +73,7 @@ gpa:       8.21 / 10
 | `Aug 2026 - now` | **AI Trainee** · full-time | Mangalam Electronics Limited | Agentic AI workflows and LLM-powered internal tooling; automations that cut manual effort across teams |
 | `Jan - Jun 2026` | **Software Developer Intern** | iVeda Solutions | 🏆 Top Performer · React, Node.js, MySQL client apps; 20+ production issues fixed in Agile sprints |
 | `Oct 2025 - Jan 2026` | **Business Development Executive** | InternsVeda | 🏆 Top Performer · data-backed recommendations to lift enrollment conversion |
-| `Sep 2024 - Sep 2025` | **Full Stack Developer & Head, HR & Alumni** | IAESTE LC JECRC | 🏆 360% membership growth · built the official website end to end |
+| `Sep 2024 - Sep 2025` | **Head of IT & DA and Head of HRA** | IAESTE LC JECRC | 🏆 360% membership growth · built the official website end to end |
 
 ## ▍ Ask the agent
 
